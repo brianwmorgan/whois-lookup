@@ -13,7 +13,9 @@ Whois Lookup is a client application that allows a user to lookup Whois Informat
 ![JS icon](images/javascript.png)
 ![React icon](images/react.png)
 ![Bootstrap icon](images/bootstrap.png)
-![Node icon](images/node.png)
+![HTML icon](images/html.png)
+![CSS icon](images/css.png) 
+![Node icon](images/node-js.png)
 ![Express icon](images/express.png)  
 
 ## Installation
