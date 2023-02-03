@@ -1,6 +1,6 @@
 # Whois Lookup | Domain / IP Address Application
 
-Whois Lookup is a client application that allows a user to lookup Whois Information when they submit a valid domain name or IP addess.    
+Whois Lookup is an application that allows a user to lookup Whois Information when they submit a valid domain name or IP addess.    
 
 ## Links
 
