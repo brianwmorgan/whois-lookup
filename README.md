@@ -4,36 +4,25 @@ Whois Lookup is a client application that allows a user to lookup Whois Informat
 
 ## Links
 
-[Client App](https://whois-lookup-client.onrender.com) deployed to Render  
-[Server](https://whois-lookup-server.onrender.com) deployed to Render  
-Server Routes:  
-`/domain` - use with a 'domainName' query parameter  
-`/ipAddress` - use with a 'ipAddress' query parameter  
+[Live App](https://whois-lookup-6hn5.onrender.com) deployed to Render  
 
 ## Technology
 
-- Javascript, React, Bootstrap, HTML, CSS, Axios  
+- Javascript, React, Bootstrap, HTML, CSS, Node.js, Express.js, Axios  
   
 ![JS icon](images/javascript.png)
 ![React icon](images/react.png)
 ![Bootstrap icon](images/bootstrap.png)
-![HTML icon](images/html.png)
-![CSS icon](images/css.png)  
+![Node icon](images/node.png)
+![Express icon](images/express.png)  
 
 ## Installation
 
-### Client Application
-
 1. Fork and clone this repository.
-1. Run `npm install` to install project dependencies.
-1. Run `npm start` to start the client locally (make sure your server is up and running first).  
-
-### Server
-
-1. Go to [Whois Lookup server on GitHub](https://github.com/brianwmorgan/whois-lookup-server).
-1. Fork and clone the repository.
-1. Run `npm install` to install project dependencies.    
-1. Run `npm start` to start the server locally (or `npm run dev` to start the server using nodemon).
+1. cd into /server and run `npm install` to install server dependencies.
+1. Run `npm run dev` from /server.
+1. In a new terminal, cd into /client and run  `npm install` to install client dependencies.
+1. Run `npm start` from /client.
 
 ## How the App Works
 
